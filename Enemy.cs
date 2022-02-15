@@ -11,6 +11,7 @@ public class Enemy : MonoBehaviour
     private bool alive;
     
 
+
     // Follow Player
     void FollowPlayer()
     {
